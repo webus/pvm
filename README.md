@@ -1,28 +1,27 @@
 pvm
 ===
 
-* https://github.com/webus/pvm
+https://github.com/webus/pvm
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 PVM is the Play Framework version manager
-
 It manages Play framework installations and enables switching beetwen them.
 
-== USAGE:
+## USAGE:
 
 	pvm [flags] commands [args]
 
-== FLAGS:
+## FLAGS:
 
 	--help		:: see help
 	--version	:: get pvm version
 
-== COMMANDS:
+## COMMANDS:
 
 	install		:: install or switch to installed Play! version  
 
-== LICENSE:
+## LICENSE:
 
 Copyright (c) 2013 webus
 
