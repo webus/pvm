@@ -1,0 +1,4 @@
+pvm
+===
+
+playframework version manager
